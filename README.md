@@ -6,8 +6,8 @@ Dengan tampilan antarmuka yang menarik dan ramah pengguna, serta dukungan teknol
 
 ## 🧑‍🤝‍🧑 Tim Pengembang – Kelompok 7 PTI D
 
-**Beni Muhammad Siddiq** (23050974121) 
-**Bilal Ramadhan** (23050974126) 
-**Muhammad Aji Yoga Pratama** (23050974130) 
-**Arthan Bhakti Al Qobidh** (23050974138) 
-**Siti Nur Fadhilah** (23050974143) 
+**Beni Muhammad Siddiq** *(23050974121)* 
+**Bilal Ramadhan** *(23050974126)* 
+**Muhammad Aji Yoga Pratama** *(23050974130)* 
+**Arthan Bhakti Al Qobidh** *(23050974138)* 
+**Siti Nur Fadhilah** *(23050974143)* 
